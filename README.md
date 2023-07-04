@@ -13,6 +13,6 @@ My collection of TOS Scripts.
 * Collection of lot of thinkscripts
    * https://usethinkscript.com/ 
 
-`- End -`
+.
 
   
